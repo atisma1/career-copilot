@@ -1,0 +1,16 @@
+{
+  "name": "Career Copilot",
+  "short_name": "Career Copilot",
+  "description": "Find Nigerian jobs, NYSC placements and trainee programmes, check your skill gaps, build a CV and track applications.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#F2F5F9",
+  "theme_color": "#12365F",
+  "orientation": "portrait-primary",
+  "icons": [
+    {"src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "icons/icon-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
